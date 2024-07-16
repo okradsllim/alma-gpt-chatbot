@@ -1,0 +1,7 @@
+trafilatura
+openai
+langchain
+llama-index
+deeplake
+chainlit
+python-dotenv
